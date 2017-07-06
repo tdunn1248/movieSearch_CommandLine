@@ -1,0 +1,22 @@
+{
+  "name": "moviesearch_commandline",
+  "version": "1.0.0",
+  "description": "-[ ] use Node.js's http module to make a request to imdb.com -[ ] use the cheerio library to extract contents from the HTML page. -[ ] functions are tested with mocha and chai",
+  "main": "movie-search-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdunn1248/movieSearch_CommandLine.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tdunn1248/movieSearch_CommandLine/issues"
+  },
+  "homepage": "https://github.com/tdunn1248/movieSearch_CommandLine#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
