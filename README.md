@@ -1,8 +1,8 @@
-Exercise
+## Exercise
 
-Write a Node.js script called movie-search.js that takes a search term as the first argument, and prints the names of the movies in the console which match that search term.
+- Write a Node.js script called movie-search.js that takes a search term as the first argument, and prints the names of the movies in the console which match that search term.
 
-Example usage
+### Example usage
 
 ```
 $ node movie-search.js "findingnemo"
