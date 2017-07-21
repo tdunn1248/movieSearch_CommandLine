@@ -20,3 +20,5 @@ function movieSearch(query) {
 }
 
 movieSearch(process.argv[2])
+
+module.exports = movieSearch
